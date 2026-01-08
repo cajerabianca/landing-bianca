@@ -8,7 +8,7 @@
     {
       "src": "^/$",
       "has": [
-        { "type": "host", "value": "bian-insomnia.online" }
+        { "type": "host", "value": "admin.bian-insomnia.online" }
       ],
       "dest": "/public/admin.html"
     },
